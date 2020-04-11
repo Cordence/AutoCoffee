@@ -9,6 +9,8 @@
 
 **예상 시스템 구성도**
 ---------------
+![시스템 구성도](https://user-images.githubusercontent.com/49565544/79038554-1cf1fd80-7c15-11ea-816d-5aa9de24b201.png)
+
 
 **기대 성과**
 ---------------
@@ -24,17 +26,22 @@
 
 **팀원**
 --------
-![준서 사진](https://user-images.githubusercontent.com/49565544/79038450-50805800-7c14-11ea-801d-39c41fba6b79.jpg)
+![준서사진](https://user-images.githubusercontent.com/49565544/79038549-15caef80-7c15-11ea-86c8-3a50f6775fc7.jpg)
+
+
 ### 박준서 (Leader)
 ```
 ■ 제품 및 시스템 기획
 ```
+![귬니 민증사진](https://user-images.githubusercontent.com/49565544/79038535-f5029a00-7c14-11ea-9c32-51e0b0cb356d.jpg)
+
 ### 최규민 (Committer)
 ```
 ■ 프론트 엔드 개발 및 아두이노 디바이스 구축
 ■ Github Committer
 ```
 <img width="100" alt="정재 사진" src="https://user-images.githubusercontent.com/49565544/79038452-5413df00-7c14-11ea-84e7-2b5edcd0ba07.png">
+
 ### 오정재 (Developer)
 ```
 ■ 백엔드 개발 및 데이터베이스 구축
