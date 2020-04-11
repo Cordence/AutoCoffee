@@ -31,20 +31,22 @@
 
 ### 박준서 (Leader)
 ```
-■ 제품 및 시스템 기획
+■ 역할 : 
+제품 및 시스템 기획
 ```
 ![귬니 민증사진](https://user-images.githubusercontent.com/49565544/79038580-4874e800-7c15-11ea-987f-52f195b15403.jpg)
 
 ### 최규민 (Committer)
 ```
-■ 프론트 엔드 개발 및 아두이노 디바이스 구축
-■ Github Committer
+■ 역할 : 
+프론트 엔드 개발 및 아두이노 디바이스 구축
 ```
 <img width="100" alt="정재 사진" src="https://user-images.githubusercontent.com/49565544/79038452-5413df00-7c14-11ea-84e7-2b5edcd0ba07.png">
 
 ### 오정재 (Developer)
 ```
-■ 백엔드 개발 및 데이터베이스 구축
+■ 역할 : 
+백엔드 개발 및 데이터베이스 구축
 ```
 
 **개발환경**
