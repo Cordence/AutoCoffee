@@ -33,7 +33,7 @@
 ```
 ■ 제품 및 시스템 기획
 ```
-![귬니 민증사진](https://user-images.githubusercontent.com/49565544/79038535-f5029a00-7c14-11ea-9c32-51e0b0cb356d.jpg)
+![귬니 민증사진](https://user-images.githubusercontent.com/49565544/79038580-4874e800-7c15-11ea-987f-52f195b15403.jpg)
 
 ### 최규민 (Committer)
 ```
